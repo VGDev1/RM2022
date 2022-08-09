@@ -7,7 +7,7 @@
 ![picture](son.png) 
 
 
-## Heatindelning
+## Heatindelning fri träning
 ![picture](nitro-fp.png) 
 ![picture](el-fp.png) 
 
