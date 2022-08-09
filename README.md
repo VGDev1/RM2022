@@ -9,5 +9,5 @@
 
 ## Heatindelning fri träning
 ![picture](nitro-fp.png) 
-![picture](el-fp.png) 
+![picture](el-fp2.png) 
 
