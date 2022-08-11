@@ -9,7 +9,7 @@
 
 ## Heatindelning fri träning
 ![picture](nitro-fp.png) 
-![picture](el-fp2.png) 
+![picture](el-fp4.png) 
 
 ## Heatindelning kval
 
