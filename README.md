@@ -2,9 +2,9 @@
 ![picture](logga.png) 
 
 ## Tidsschema
-![picture](fre.png) 
-![picture](lor.png) 
-![picture](son.png) 
+![picture](fredag.png) 
+![picture](lordag.png) 
+![picture](sondag.png) 
 
 
 ## Heatindelning fri träning
