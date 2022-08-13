@@ -3,7 +3,7 @@
 
 ## Tidsschema
 ![picture](fredag.png) 
-![picture](lordag.png) 
+![picture](lordag2.png) 
 ![picture](sondag.png) 
 
 
