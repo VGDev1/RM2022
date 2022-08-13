@@ -18,3 +18,5 @@
 
 ## Heatindelning finaler
 
+![picture](finaler1.png)
+
