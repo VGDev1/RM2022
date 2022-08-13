@@ -13,6 +13,8 @@
 ![picture](el-fp4.png) 
 
 ## Heatindelning kval
+![picture](nitroq.png) 
+![picture](elq.png) 
 
 ## Heatindelning finaler
 
